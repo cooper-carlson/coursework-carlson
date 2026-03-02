@@ -1,3 +1,7 @@
+Draft Title: How much of the warm, dry weather in Colorado in 2026 can be attributed to the La Nina?
+
+Group: Cooper Carlson, Grant Trier, Dillon Smith
+
 ✨ Motivation:
 
 This is one of the warmest and driest winters on record in Colorado, due in part to a La Nina. Pacific current temperatures have a massive impact on Northern hemisphere weather, and it would be interesting to see how historic ocean data compares to this year's data in light of the weather abnormalities.
